@@ -1,0 +1,6 @@
+[submodule "METASIM"]
+	path = METASIM
+	url = https://github.com/SSSA-ampere/METASIM.git
+[submodule "RTLIB"]
+	path = RTLIB
+	url = https://github.com/SSSA-ampere/RTLIB.git
