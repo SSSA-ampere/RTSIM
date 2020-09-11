@@ -1,6 +1,6 @@
 # RTSIM
 
-
+[![CodeFactor](https://www.codefactor.io/repository/github/sssa-ampere/rtsim/badge/master)](https://www.codefactor.io/repository/github/sssa-ampere/rtsim/overview/master)
 
 Welcome to the home page of the RTSIM project. RTSIM stands for (Real-Time system SIMulator). It is a collection of programming libraries written in C++ for simulating real-time control systems.
 
